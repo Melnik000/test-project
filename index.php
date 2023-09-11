@@ -16,5 +16,12 @@
             <div class="main__new-block">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id eos ullam minus non dolor quisquam rem harum aliquam tenetur! Illo modi dicta velit quidem facere sit nihil impedit mollitia harum.</div>
         </div>
     </div>
+    <div class="footer">
+        <div class="footer__container __container">
+            <dif class="footer__rigths">
+                Все права не защищены (2023)
+            </dif>
+        </div>
+    </div>
 </body>
 </html>
