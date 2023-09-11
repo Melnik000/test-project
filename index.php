@@ -7,6 +7,18 @@
     <title>test-page</title>
 </head>
 <body>
+    <div class="header">
+        <div class="header__container __container">
+            <div class="header__title">
+                Title page
+            </div>
+            <ul class="header__list">
+                <li class="header__item"><a href="/" class="header__link">Link 1</a></li>
+                <li class="header__item"><a href="/" class="header__link">Link 2</a></li>
+                <li class="header__item"><a href="/" class="header__link">Link 3</a></li>
+            </ul>
+        </div>
+    </div>
     <div class="main">
         <div class="main__container __container">
             <div class="title-block">
