@@ -14,6 +14,11 @@
                 <p class="title-block__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem magnam inventore, deleniti architecto perspiciatis eaque in amet quisquam corporis voluptatibus, dignissimos ratione repellat, quidem sunt est aperiam quam cum nisi!</p>
             </div>
             <div class="main__new-block">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id eos ullam minus non dolor quisquam rem harum aliquam tenetur! Illo modi dicta velit quidem facere sit nihil impedit mollitia harum.</div>
+            <div class="title-block">
+                <h2 class="title-block__title">Title</h2>
+                <p class="title-block__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem magnam inventore, deleniti architecto perspiciatis eaque in amet quisquam corporis voluptatibus, dignissimos ratione repellat, quidem sunt est aperiam quam cum nisi!</p>
+            </div>
+            <div class="main__new-block">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id eos ullam minus non dolor quisquam rem harum aliquam tenetur! Illo modi dicta velit quidem facere sit nihil impedit mollitia harum.</div>
         </div>
     </div>
 </body>
