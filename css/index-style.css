@@ -84,6 +84,43 @@ input[type=search]::-webkit-search-results-decoration {
   padding: 0 10px;
 }
 
+.header {
+  background: rgba(201, 189, 189, 0.7058823529);
+  height: 50px;
+}
+
+.header__container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 2px solid black;
+}
+
+.header__title {
+  font-size: 36px;
+  font-weight: 700;
+  font-style: italic;
+  margin-left: 30px;
+}
+
+.header__list {
+  display: flex;
+  height: 100%;
+  align-items: center;
+}
+
+.header__item {
+  font-size: 20px;
+}
+.header__item:not(:last-child) {
+  margin-right: 20px;
+}
+
+.header__link:hover {
+  color: #3d3a3a;
+}
+
 .main {
   background: rgba(201, 189, 189, 0.7058823529);
 }
